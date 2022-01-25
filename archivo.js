@@ -8,3 +8,5 @@ if(edad<18){
     console.log("Ya sos mayor, proceda")
 }
 
+let estudiando = "practicando ejercicios"
+
