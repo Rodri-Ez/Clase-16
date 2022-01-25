@@ -7,3 +7,5 @@ if(edad<18){
 }else{
     console.log("Ya sos mayor, proceda")
 }
+
+let autosrapidos = velocidad>100
