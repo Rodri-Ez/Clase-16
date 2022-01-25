@@ -1,3 +1,3 @@
 
 let sueño = horasdesueño < 4
-let edad = 20
+let relajado = horasdesueño > 6
